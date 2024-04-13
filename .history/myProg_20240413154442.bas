@@ -1,0 +1,4 @@
+CLS
+LET A = 20
+l B =100
+PRINT = A,B
